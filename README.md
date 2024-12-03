@@ -1,6 +1,7 @@
-**PROJECT : CLIMATE CHANGE DASHBOARD
-TEAM NEXUS :
-             HARSH SINGH
+**PROJECT : CLIMATE CHANGE DASHBOARD**
+**TEAM NEXUS :**
+
+             **HARSH SINGH
              SHARMA UDAY
              VIHIR SHAH
              PRAJAPATI YASH
@@ -16,6 +17,7 @@ fostering greater awareness, accountability, and collaboration. Ultimately, the 
 data-driven actions that mitigate climate risks and enhance global climate resilience. 
 
 ||**Tools and Libraries used :**||
+
 The libraries used in our python scripts 
 pyngrok(ngrok)
 matplotlib.pyplot
@@ -29,6 +31,7 @@ cborne
 ||**Data Source :**||
 
 https://data.giss.nasa.gov/gistemp/graphs_v4/
+
 kaggle.com
 
 ||**Execution Steps**||
