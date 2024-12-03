@@ -50,6 +50,7 @@ Make sure the dataset is in the correct format and placed in the same directory 
 4. Run the Flask Application
 5. Access the Application in a Browser
 Open your web browser and go to:
+
 ||**Result summary**||
 
 The image depicts a section of a climate change dashboard hosted on an interactive web application. At the top, there is a dropdown menu labeled
@@ -64,6 +65,7 @@ The start year is set to 1961, the end year to 2022, and the selected country is
 representation of the data. Below these inputs, there is a line graph titled "Temperature Change for Bhutan (1961–2022)." The graph displays annual temperature change trends 
 in Bhutan over the selected period. The x-axis represents the years, while the y-axis indicates the temperature changes in degrees Celsius (°C). The line chart, drawn in blue,
 shows a general upward trend, signifying an increase in temperature change over time.
+
 ||**Challenges faced**||
 1. Handling Data Availability Issues
 Challenge: The user selects a year range or countries that do not have corresponding data in the dataset, leading to a "No data available" message also due the the spaces in the .csv and .xlsx files.
