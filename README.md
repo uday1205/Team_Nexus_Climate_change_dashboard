@@ -1,5 +1,6 @@
 **PROJECT : CLIMATE CHANGE DASHBOARD
-TEAM NEXUS : HARSH SINGH
+TEAM NEXUS :
+             HARSH SINGH
              SHARMA UDAY
              VIHIR SHAH
              PRAJAPATI YASH
@@ -26,6 +27,7 @@ numpy
 cborne
 
 ||**Data Source :**||
+
 https://data.giss.nasa.gov/gistemp/graphs_v4/
 kaggle.com
 
