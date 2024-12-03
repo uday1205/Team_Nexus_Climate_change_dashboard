@@ -1,6 +1,6 @@
 **PROJECT : CLIMATE CHANGE DASHBOARD**
 
-**TEAM NEXUS :**
+**TEAM NEXUS**
 
  **Team Members : HARSH SINGH
                   SHARMA UDAY
