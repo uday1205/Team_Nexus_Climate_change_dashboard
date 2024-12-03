@@ -2,10 +2,10 @@
 
 **TEAM NEXUS**
 
- **Team Members : HARSH SINGH
-                  SHARMA UDAY
-                  VIHIR SHAH
-                  PRAJAPATI YASH
+ **Team Members : HARSH SINGH, 
+                  SHARMA UDAY, 
+                  VIHIR SHAH, 
+                  PRAJAPATI YASH, 
                   JEET PATEL**
 
              
