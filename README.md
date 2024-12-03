@@ -1,11 +1,12 @@
 **PROJECT : CLIMATE CHANGE DASHBOARD**
+
 **TEAM NEXUS :**
 
-             **HARSH SINGH
-             SHARMA UDAY
-             VIHIR SHAH
-             PRAJAPATI YASH
-             JEET PATEL**
+ **Team Members : HARSH SINGH
+                  SHARMA UDAY
+                  VIHIR SHAH
+                  PRAJAPATI YASH
+                  JEET PATEL**
 
              
 The objective of a Climate Change Dashboard is to provide a centralized, real-time platform that enables users to monitor,
@@ -38,6 +39,7 @@ kaggle.com
 
 
 ||**Result summary**||
+
 The image depicts a section of a climate change dashboard hosted on an interactive web application. At the top, there is a dropdown menu labeled
 "Select Year for Top 10 Hottest Countries," with the year 1988 selected. Below the dropdown is a green button labeled "Generate Top 10 Hottest Countries Chart."
 The main content of the dashboard is a bar chart titled "Top 10 Hottest Countries in 1988." The chart showcases the temperature changes (in °C) for the top 10
