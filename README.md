@@ -9,9 +9,9 @@
                   JEET PATEL**
 
              
-The objective of a Climate Change Dashboard is to provide a centralized, real-time platform that enables users to monitor,
+The objective of a Climate Change Dashboard is to provide a centralized platform that enables users to monitor,
 analyze, and visualize key climate data and trends. By tracking essential indicators such as temperature changes the dashboard help
-stakeholders better understand the impacts of climate change. It also allows for the tracking of mitigation and adaptation efforts, 
+users better understand the impacts of climate change. It also allows for the tracking of mitigation and adaptation efforts, 
 such as climate resilience projects, ensuring that interventions are on track.
 Designed to support informed decision-making, the dashboard offers actionable insights for policymakers, businesses, and the public,
 fostering greater awareness, accountability, and collaboration. Ultimately, the dashboard serves as a tool to promote 
